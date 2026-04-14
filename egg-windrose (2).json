@@ -6,7 +6,7 @@
     },
     "exported_at": "2026-04-14T00:00:00+00:00",
     "name": "Windrose",
-    "author": "custom@example.com",
+    "author": "myrhaug91@gmail.com",
     "description": "Windrose is a pirate co-op survival adventure. Sail the seas, build your base, craft gear and fight bosses with up to 4 players. Installs via SteamCMD (Windows branch) and runs through Proton.",
     "features": [
         "steam_disk_space"
